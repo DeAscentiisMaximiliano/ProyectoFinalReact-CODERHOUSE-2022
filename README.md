@@ -23,18 +23,9 @@ Este componente contiene a _Item_ y a _Loader_(Como su nombre lo indica su funci
 - _CartContext_: Esto no es un componente, Es un Contexto que nos ayuda a proveer las funciones para modificar el arrray de productos de nuestro carrito, editando el contenido de nuestro carrito desde cualquier parte de nuestra _App_(En este caso) En este caso usado en _CarList_ y _ItemDetail_.
 
 
-## Tech
-
+• Tech
 En este proyecto de React js se utiliaron las siguientes librerias
 
-| TECH | VERSION | 
-| ------ | ------ |
-| [react] | 18.0.0 |
-| [firebase] | 9.8.2|
-| [firestore] | 1.1.6 |
-| [react-dom] | 18.0.0 |
-| [react-icons] | 4.3.1 |
-| [react-router-dom] | 6.3.0|
 
 -react : utilizada para crear interfaces de usuario con el objetivo de facilitar el desarrollo de aplicaciones en una sola página a traves de componentes.
 
